@@ -3,4 +3,4 @@
 A group aimed towards making information available to the benefit of all. 
 
 ## Current Project | Verified ✔️
-see [vrfd.dev](vrfd.dev)
+see [vrfd.dev](https://vrfd.dev)
