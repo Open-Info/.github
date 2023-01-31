@@ -1,6 +1,6 @@
 # Open Information ℹ️
 
-A group aimed towards making information available to the benefit of all.
+For the benefit of all.
 
 Open-Information acts as a custodian for sensitive information.
 
