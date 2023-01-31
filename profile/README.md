@@ -2,11 +2,11 @@
 
 For the benefit of all.
 
-Open-Information acts as a custodian for sensitive information.
+Open-Information acts as a custodian for sensitive user information.
 
 Through Soulbound-NFT Certification, we:
 - Verifies anonomous entities ✔️ and
-- Flags malicious acters  🚩 . 
+- Flag malicious acters  🚩 . 
 
 ### [WhitePaper](https://open-info.gitbook.io/oi-whitepaper/)
 
