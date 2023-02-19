@@ -12,6 +12,6 @@ Through Soulbound-NFT Certification, we:
 
 ## Current Project | Verified ✔️
 
-Development build online @ [vrfd.dev](https://vrfd.dev).
+Early build online @ [vrfd](https://vrfd-frontend.vercel.app/).
 
 See the [user manual](https://open-info.gitbook.io/verified-app/).
