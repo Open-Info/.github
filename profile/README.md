@@ -10,7 +10,7 @@ Through Soulbound-NFT Certification, we:
 
 ### [See WhitePaper](https://open-info.gitbook.io/oi-whitepaper/)
 
-## Current Project | Verified ✔️
+## Current Project => [Verified](https://github.com/Open-Info/vrfd-frontend) ✔️
 
 Early build online @ [vrfd.info](https://vrfd.info/).
 
