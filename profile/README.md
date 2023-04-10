@@ -4,7 +4,7 @@ For the benefit of all.
 
 Open Info is a custodian for public information.
 
-Through Soulbound-NFT Certification, we:
+Through Soulbound NFTs, we:
 - Verify anonomous entities ✔️, 
 - Certify Information ⭐, and
 - Flag malicious actors 🚩. 
