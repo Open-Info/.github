@@ -1,11 +1,12 @@
-# Open Information ℹ️
+# Open Info ℹ️
 
 For the benefit of all.
 
-Open-Information acts as a custodian for sensitive user-information.
+Open Info is a custodian for public information.
 
 Through Soulbound-NFT Certification, we:
-- Verify anonomous entities ✔️ and
+- Verify anonomous entities ✔️, 
+- Certify Information ⭐, and
 - Flag malicious actors 🚩. 
 
 ### [See WhitePaper](https://open-info.gitbook.io/oi-whitepaper/)
