@@ -11,8 +11,8 @@ Through Soulbound NFTs, we:
 
 ### [See WhitePaper](https://open-info.gitbook.io/oi-whitepaper/)
 
-## Current Project => [Verified](https://github.com/Open-Info/vrfd-frontend) ✔️
+## [VRFD](https://github.com/Open-Info/vrfd-frontend) dApp
 
-Early build online @ [vrfd.info](https://vrfd.info/).
+Alpha build online @ [vrfd.info](https://vrfd.info/).
 
 See the [user manual](https://open-info.gitbook.io/verified-app/).
