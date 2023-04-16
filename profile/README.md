@@ -1,6 +1,6 @@
 # Open Info ℹ️
 
-For the benefit of all, [see WhitePaper](https://open-info.gitbook.io/oi-whitepaper/).
+For the benefit of all, [see LitePaper](https://open-info.gitbook.io/oi-whitepaper/).
 
 Open Info is a custodian for public information.
 
