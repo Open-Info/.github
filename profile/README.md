@@ -8,7 +8,7 @@ Open Info is a custodian for public information. Through Soulbound NFTs, we:
 - Certify Information ⭐, and
 - Flag malicious actors 🚩. 
 
-See our [LitePaper](https://open-info.gitbook.io/oi-whitepaper/).
+See our [Whitepaper](https://open-info.gitbook.io/oi-whitepaper/).
 
 ## On this page
 You will find all open source code used by Open Info, which includes
@@ -17,7 +17,7 @@ You will find all open source code used by Open Info, which includes
 
 ### VRFD dApp
 
-Alpha Version 0.1.0 online @ [vrfd.info](https://vrfd.info/).
+Beta Version online @ [vrfd.info](https://app.vrfd.info/).
 
 See the [user-manual](https://open-info.gitbook.io/verified-app/) for help.
 
