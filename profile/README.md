@@ -4,14 +4,14 @@ Exists for the benefit of all.
 ## In short
 
 Open Info is a custodian for public information. Through Soulbound NFTs, we:
-- Verify anonomous entities ✔️, 
+- Verify anonymous entities ✔️, 
 - Certify Information ⭐, and
 - Flag malicious actors 🚩. 
 
-See our [Whitepaper](https://open-info.gitbook.io/oi-whitepaper/).
+See our [Whitepaper](https://whitepaper.vrfd.info/).
 
 ## On this page
-You will find all open source code used by Open Info, which includes
+You will find all open-source code used by Open Info, which includes
  - VRFD frontend
  - Soulbound NFT backend.
 
@@ -19,7 +19,7 @@ You will find all open source code used by Open Info, which includes
 
 Beta Version online @ [vrfd.info](https://app.vrfd.info/).
 
-See the [user-manual](https://open-info.gitbook.io/verified-app/) for help.
+See the [user-manual](https://docs.vrfd.info/) for help.
 
 ### Soulbound NFTs
 
